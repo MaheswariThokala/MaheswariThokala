@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Project**
 - 🌱 I’m currently learning **AWS**
-- 💬 Ask me about **Javascript, .NET**
+- 💬 Ask me about **Javascript,MERN,.NET**
 - 📫 How to reach me **mahithokala19@gmail.com**
 - ⚡ Fun fact **I enjoy sketching**
 
