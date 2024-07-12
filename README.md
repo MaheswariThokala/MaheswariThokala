@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheswarithokala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on **Personal Project**
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **LLMs**
 - 💬 Ask me about **Javascript,MERN,.NET**
 - 📫 How to reach me **mahithokala19@gmail.com**
 - ⚡ Fun fact **I enjoy sketching**
