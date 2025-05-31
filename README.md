@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **LLMs**
 - 💬 Ask me about **Javascript,MERN,.NET**
 - 📫 How to reach me **mahithokala19@gmail.com**
-- ⚡ Fun fact **I enjoy sketching**
+- ⚡ Fun fact **I love Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
